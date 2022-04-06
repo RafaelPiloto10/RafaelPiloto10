@@ -2,12 +2,12 @@
 
 I turn food into code: 🍔 -> 💻
 
-- 🔭 I’m currently working on Habanero - a predator vs prey simulation with dynamic terrain.
-- 🌱 I’m currently learning systems and controls engineering.
+- 🔭 I’m currently working on Habanero - a predator vs prey simulation with dynamic terrain
+- 🌱 I’m currently learning systems and controls engineering
 - 💬 Ask me about FIRST Robotics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafaelpiloto10/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I helped break the world record for most people doing jumping jacks
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPiloto10&show_icons=true&hide_border=true&theme=tokyonight)
 

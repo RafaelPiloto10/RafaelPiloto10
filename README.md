@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**RafaelPiloto10/RafaelPiloto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn food into code: 🍔 -> 💻
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Habanero - a predator vs prey simulation with dynamic terrain.
+- 🌱 I’m currently learning systems and controls engineering.
+- 💬 Ask me about FIRST Robotics
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafaelpiloto10/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPiloto10&show_icons=true&hide_border=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPiloto10&hide=jupyter%20notebook,c%23,html,css,scss,less,shaderlab,hlsl,vim%20script,shell,starlark,batchfile&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&exclude_repo=DigitalEaglesScoutingApp,SeniorStaffSelect,PatientZero0,ImageToCircle,GameOfLifeTelegramBot,Cook-for-Me,Spotify-Mood-Recommender,A.P.O.L.L.O,Twitter-Clone)](https://github.com/RafaelPiloto10/github-readme-stats)

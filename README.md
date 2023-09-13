@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 I turn food into code: 🍔 -> 💻
 

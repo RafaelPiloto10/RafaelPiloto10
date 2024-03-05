@@ -2,7 +2,7 @@
 
 I turn food into code: 🍔 -> 💻
 
-- 💻 I’m currently working on [RefBuilder](https://refbuilder.com) and [Bragsheet.ai](https://bragsheet.ai)
+- 💻 I’m currently working on [RefBuilder](https://refbuilder.com), [Bragsheet.ai](https://bragsheet.ai), and [Guard AI](https://guard-ai.vercel.app)
 - 🔎 Interested in backend development, embedded devices, robotics, controls engineering, computer vision, and machine learning
 - ⚡ Fun fact: I helped break the world record for most people doing jumping jacks
 - 💡 Student at Emory University, Lead Developer at Reffy, Google Intern, and FIRST Robotics Mentor

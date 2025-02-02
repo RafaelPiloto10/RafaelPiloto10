@@ -2,7 +2,7 @@
 
 I turn food into code: 🍔 -> 💻
 
-- 💻 I’m currently working on [reffy](https://reffy.ai) and [Shield AI](https://shield-ai.app)
+- 💻 I’m currently working on [Reffy AI](https://reffy.ai) and [Shield AI](https://shield-ai.app)
 - 🔎 Interested in backend development, distributed systems, os, robotics, controls engineering, computer vision, and machine learning
 - ⚡ Fun fact: I helped break the world record for most people doing jumping jacks
 - 💡 Google SWE, Alumni at Emory University, Lead Developer at Reffy, and FIRST Robotics Mentor
